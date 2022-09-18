@@ -11,8 +11,8 @@
 ```
 ## 🚀 About HLABZ
 
-HLABZ manages different automatic websites: Blog, Ecom, SAAS,... 
-By doing our work, we have developed a real expertise in the fields of Dev, SEO, Advertising & much more.
+**HLABZ** manages different automatic websites: **Blog, Ecom, SAAS**,... 
+By doing our work, we have developed a real expertise in the fields of **Dev, SEO, Advertising & much more**.
 
 - 🌐 Website -> [https://hlabz.cc/](https://hlabz.cc/)
 - ⚡️ Building -> 
