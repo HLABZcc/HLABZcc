@@ -1,22 +1,13 @@
-# Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> I am...
+# Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 
 ```
-HHHHHHHHH     HHHHHHHHHLLLLLLLLLLL                            AAA               BBBBBBBBBBBBBBBBB   ZZZZZZZZZZZZZZZZZZZ                                        
-H:::::::H     H:::::::HL:::::::::L                           A:::A              B::::::::::::::::B  Z:::::::::::::::::Z                                        
-H:::::::H     H:::::::HL:::::::::L                          A:::::A             B::::::BBBBBB:::::B Z:::::::::::::::::Z                                        
-HH::::::H     H::::::HHLL:::::::LL                         A:::::::A            BB:::::B     B:::::BZ:::ZZZZZZZZ:::::Z                                         
-  H:::::H     H:::::H    L:::::L                          A:::::::::A             B::::B     B:::::BZZZZZ     Z:::::Z      cccccccccccccccc    cccccccccccccccc
-  H:::::H     H:::::H    L:::::L                         A:::::A:::::A            B::::B     B:::::B        Z:::::Z      cc:::::::::::::::c  cc:::::::::::::::c
-  H::::::HHHHH::::::H    L:::::L                        A:::::A A:::::A           B::::BBBBBB:::::B        Z:::::Z      c:::::::::::::::::c c:::::::::::::::::c
-  H:::::::::::::::::H    L:::::L                       A:::::A   A:::::A          B:::::::::::::BB        Z:::::Z      c:::::::cccccc:::::cc:::::::cccccc:::::c
-  H:::::::::::::::::H    L:::::L                      A:::::A     A:::::A         B::::BBBBBB:::::B      Z:::::Z       c::::::c     cccccccc::::::c     ccccccc
-  H::::::HHHHH::::::H    L:::::L                     A:::::AAAAAAAAA:::::A        B::::B     B:::::B    Z:::::Z        c:::::c             c:::::c             
-  H:::::H     H:::::H    L:::::L                    A:::::::::::::::::::::A       B::::B     B:::::B   Z:::::Z         c:::::c             c:::::c             
-  H:::::H     H:::::H    L:::::L         LLLLLL    A:::::AAAAAAAAAAAAA:::::A      B::::B     B:::::BZZZ:::::Z     ZZZZZc::::::c     cccccccc::::::c     ccccccc
-HH::::::H     H::::::HHLL:::::::LLLLLLLLL:::::L   A:::::A             A:::::A   BB:::::BBBBBB::::::BZ::::::ZZZZZZZZ:::Zc:::::::cccccc:::::cc:::::::cccccc:::::c
-H:::::::H     H:::::::HL::::::::::::::::::::::L  A:::::A               A:::::A  B:::::::::::::::::B Z:::::::::::::::::Z c:::::::::::::::::c c:::::::::::::::::c
-H:::::::H     H:::::::HL::::::::::::::::::::::L A:::::A                 A:::::A B::::::::::::::::B  Z:::::::::::::::::Z  cc:::::::::::::::c  cc:::::::::::::::c
-HHHHHHHHH     HHHHHHHHHLLLLLLLLLLLLLLLLLLLLLLLLAAAAAAA                   AAAAAAABBBBBBBBBBBBBBBBB   ZZZZZZZZZZZZZZZZZZZ    cccccccccccccccc    cccccccccccccccc                                                                                                                                          
+##     ## ##          ###    ########  ########  ######   ######  
+##     ## ##         ## ##   ##     ##      ##  ##    ## ##    ## 
+##     ## ##        ##   ##  ##     ##     ##   ##       ##       
+######### ##       ##     ## ########     ##    ##       ##       
+##     ## ##       ######### ##     ##   ##     ##       ##       
+##     ## ##       ##     ## ##     ##  ##      ##    ## ##    ## 
+##     ## ######## ##     ## ########  ########  ######   ######                                                                                                                        
 ```
 ## 🚀 About HLABZ
 
