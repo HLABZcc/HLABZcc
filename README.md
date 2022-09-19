@@ -15,7 +15,7 @@
 
 By doing our work, we have developed a real expertise in the fields of ***Dev, SEO, Advertising & much more***.
 
-- 🌐 Website : **[https://hlabz.cc/](https://www.hlabz.cc/)**
+- 🌐 Website : **[https://www.hlabz.cc/](https://www.hlabz.cc/)**
 - ⚡️ Contact : **contact@hlabz.cc**
 - 🛠 Work Together : **[https://www.fiverr.com/hlabzconsult](https://www.fiverr.com/hlabzconsult)**
 
@@ -35,7 +35,7 @@ By doing our work, we have developed a real expertise in the fields of ***Dev, S
 
 ## 📈 Our statistics:
 - 🚀 More than **+3000 SEO Audit** done.
-- 🛸 More than **+50 Websites Built** at [hlabz.cc](hlabz.cc).
+- 🛸 More than **+50 Websites Built** at [www.hlabz.cc](www.hlabz.cc).
 - 🧨 More than **+10 Projects Developed**.
 
 ## 💻 Open source work stats:
