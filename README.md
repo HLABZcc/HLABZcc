@@ -22,7 +22,7 @@ By doing our work, we have developed a real expertise in the fields of ***Dev, S
 ## 💼 Services we are providing:
 - ⛏ ADS Campaign & Optimize : Google Ads, Facebook Ads, Snapchat Ads, Tiktok Ads & Taboola.
 - 🛠 SEO Audit, Netlinking, SEO strategy Consulting.
-- 💻 Website development:
+- 💻 Website Development:
 
   - ⚡ Blog
   - ⚡ E-commerce
@@ -34,9 +34,9 @@ By doing our work, we have developed a real expertise in the fields of ***Dev, S
 
 
 ## 📈 Our statistics:
-- 🚀 More than +3000 SEO Audit done.
-- 🛸 More than +50 websites built at [hlabz.cc](hlabz.cc).
-- 🧨 More than +10 Projects developed.
+- 🚀 More than **+3000 SEO Audit** done.
+- 🛸 More than **+50 Websites Built** at [hlabz.cc](hlabz.cc).
+- 🧨 More than **+10 Projects Developed**.
 
 ## 💻 Open source work stats:
 
@@ -46,9 +46,9 @@ By doing our work, we have developed a real expertise in the fields of ***Dev, S
 
 ![Donate BTC](https://user-images.githubusercontent.com/106092954/169848186-ce4f7702-c9ff-4d76-b66f-253156fd7b78.png)  ![Donate LTC](https://user-images.githubusercontent.com/106092954/169848564-e78402e8-6d19-41ec-a0dd-80f0669298bd.png)  ![Donate BCH](https://user-images.githubusercontent.com/106092954/169848724-9c78a57e-7009-49e4-afa3-11d7c93063ea.png)
 
-- BTC address: ```bc1qp4zxxj0k0whkm483qv5dk2rs6sgh2tt70h44rf```
-- LTC address: ```ltc1qtyqsh3sgnaa9sdhe89p6qu2s6g75s70yzeqdyu```
-- BCH address: ```qzzuem8jh3a0dvjugtsrn2vvh3vvq4hv8yhucrxzdk```
+- **BTC address:** ```bc1qp4zxxj0k0whkm483qv5dk2rs6sgh2tt70h44rf```
+- **LTC address:** ```ltc1qtyqsh3sgnaa9sdhe89p6qu2s6g75s70yzeqdyu```
+- **BCH address:** ```qzzuem8jh3a0dvjugtsrn2vvh3vvq4hv8yhucrxzdk```
 
 <!--
 **HLABZcc/HLABZcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
