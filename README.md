@@ -35,7 +35,7 @@ By doing our work, we have developed a real expertise in the fields of ***Dev, S
 
 ## 📈 Our statistics:
 - 🚀 More than **+3000 SEO Audit** done.
-- 🛸 More than **+50 Websites Built** at [www.hlabz.cc](www.hlabz.cc).
+- 🛸 More than **+50 Websites Built** at [www.hlabz.cc](https://www.hlabz.cc).
 - 🧨 More than **+10 Projects Developed**.
 
 ## 💻 Open source work stats:
