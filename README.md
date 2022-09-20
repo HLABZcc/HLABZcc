@@ -15,13 +15,13 @@
 
 By doing our work, we have developed a real expertise in the fields of ***Dev, SEO, Advertising & much more***.
 
-- 🌐 Website : **[https://www.hlabz.cc/](https://www.hlabz.cc/)**
-- ⚡️ Contact : **contact@hlabz.cc**
-- 🛠 Work Together : **[https://www.fiverr.com/hlabzconsult](https://www.fiverr.com/hlabzconsult)**
+- 🌐 ***Website*** : **[www.hlabz.cc](https://www.hlabz.cc/)**
+- ⚡️ ***Contact*** : **contact@hlabz.cc**
+- 🛠 ***Work Together*** : **[www.fiverr.com/hlabzconsult](https://www.fiverr.com/hlabzconsult)**
 
 ## 💼 Services we are providing:
-- ⛏ ADS Campaign & Optimize : Google Ads, Facebook Ads, Snapchat Ads, Tiktok Ads & Taboola.
-- 🛠 SEO Audit, Netlinking, SEO strategy Consulting.
+- ⛏ ***ADS Campaign & Optimize*** : Google Ads, Facebook Ads, Snapchat Ads, Tiktok Ads & Taboola.
+- 🛠 ***SEO Audit***, ***Netlinking***, ***SEO strategy Consulting***.
 - 💻 Website Development:
 
   - ⚡ Blog
