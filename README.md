@@ -24,6 +24,7 @@ By doing our work, we have developed a real expertise in the fields of ***Dev, S
 - 🛠 ***SEO Audit***, ***Netlinking***, ***SEO strategy Consulting***.
 - 💻 ***Website Development***:
 
+  - ⚡ Landing Page
   - ⚡ Blog
   - ⚡ E-commerce
   - ⚡ SAAS
