@@ -9,10 +9,6 @@
 ##     ## ##       ##     ## ##     ##  ##      ##    ## ##    ## 
 ##     ## ######## ##     ## ########  ########  ######   ######                                                                                                                        
 ```
-  <br />
-  <p align="center">
-  <img src="https://user-images.githubusercontent.com/113842155/195224011-0e8a0959-8e76-4e1e-9dd7-a2eb5a5bd9aa.png" width="165px">
-  </p>
 
 ## 🚀 About HLABZ:
 
@@ -23,6 +19,11 @@ By doing our work, we have developed a real expertise in the fields of ***Dev, S
 - 🌐 ***Website*** : **[www.hlabz.cc](https://www.hlabz.cc/)**
 - ⚡️ ***Contact*** : **contact@hlabz.cc**
 - 🛠 ***Work Together*** : **[www.fiverr.com/hlabzconsult](https://www.fiverr.com/hlabzconsult)**
+
+  <br />
+  <p align="center">
+  <img src="https://user-images.githubusercontent.com/113842155/195224011-0e8a0959-8e76-4e1e-9dd7-a2eb5a5bd9aa.png" width="165px">
+  </p>
 
 ## 💼 Services we are providing:
 - ⛏ ***ADS Campaign & Optimize*** : Google Ads, Facebook Ads, Snapchat Ads, Tiktok Ads & Taboola.
