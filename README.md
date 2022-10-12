@@ -11,7 +11,10 @@
 ```
   <br />
   <p align="center">
-  <img src="https://user-images.githubusercontent.com/113842155/190999737-646f47ae-3795-47c7-a5a0-86274e5423b1.png" width="75px" height="75px">
+  
+  https://user-images.githubusercontent.com/113842155/195224011-0e8a0959-8e76-4e1e-9dd7-a2eb5a5bd9aa.png
+
+  <img src="https://user-images.githubusercontent.com/113842155/195224011-0e8a0959-8e76-4e1e-9dd7-a2eb5a5bd9aa.png" width="145px">
   </p>
 
 ## 🚀 About HLABZ:
