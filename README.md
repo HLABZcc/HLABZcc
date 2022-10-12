@@ -55,7 +55,7 @@ By doing our work, we have developed a real expertise in the fields of ***Dev, S
 - **BTC address:** ```bc1qp4zxxj0k0whkm483qv5dk2rs6sgh2tt70h44rf```
 - **LTC address:** ```ltc1qtyqsh3sgnaa9sdhe89p6qu2s6g75s70yzeqdyu```
 - **BCH address:** ```qzzuem8jh3a0dvjugtsrn2vvh3vvq4hv8yhucrxzdk```
-<br />
+<hr />
   <p align="center">
     <a href="https://www.hlabz.cc/"><img src="https://user-images.githubusercontent.com/113842155/195224448-f56ebf5c-a876-4a4a-b364-250f9220419e.png" width="42px"></a>
   </p>
