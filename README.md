@@ -1,5 +1,9 @@
 # Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Welcome to ***HLABZ ⚡***
 
+  <p align="center">
+    <a href="https://www.hlabz.cc/"><img src="https://user-images.githubusercontent.com/113842155/195224448-f56ebf5c-a876-4a4a-b364-250f9220419e.png" width="42px"></a>
+  </p>
+
 ```
 ##     ## ##          ###    ########  ########  ######   ######  
 ##     ## ##         ## ##   ##     ##      ##  ##    ## ##    ## 
@@ -9,10 +13,6 @@
 ##     ## ##       ##     ## ##     ##  ##      ##    ## ##    ## 
 ##     ## ######## ##     ## ########  ########  ######   ######                                                                                                                        
 ```
-<br />
-  <p align="center">
-    <img src="https://user-images.githubusercontent.com/113842155/195224448-f56ebf5c-a876-4a4a-b364-250f9220419e.png" width="42px">
-  </p>
 
 ## 🚀 About HLABZ:
 
@@ -54,7 +54,7 @@ By doing our work, we have developed a real expertise in the fields of ***Dev, S
 
 <br />
   <p align="center">
-    <img src="https://user-images.githubusercontent.com/113842155/195224448-f56ebf5c-a876-4a4a-b364-250f9220419e.png" width="42px">
+    <a href="https://www.hlabz.cc/"><img src="https://user-images.githubusercontent.com/113842155/195224448-f56ebf5c-a876-4a4a-b364-250f9220419e.png" width="42px"></a>
   </p>
 
 ## 🎁 Donate Crypto:
