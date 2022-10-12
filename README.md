@@ -56,9 +56,10 @@ By doing our work, we have developed a real expertise in the fields of ***Dev, S
 - **BCH address:** ```qzzuem8jh3a0dvjugtsrn2vvh3vvq4hv8yhucrxzdk```
 
 <br />
-<p align="center">
-![HLABZ](https://user-images.githubusercontent.com/113842155/195224448-f56ebf5c-a876-4a4a-b364-250f9220419e.png)
-</p>
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/113842155/195224448-f56ebf5c-a876-4a4a-b364-250f9220419e.png" width="165px">
+  </p>
+
 
 <!--
 **HLABZcc/HLABZcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
