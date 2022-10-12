@@ -26,7 +26,7 @@ By doing our work, we have developed a real expertise in the fields of ***Dev, S
 
   <br />
   <p align="center">
-  <img src="https://user-images.githubusercontent.com/113842155/195224011-0e8a0959-8e76-4e1e-9dd7-a2eb5a5bd9aa.png" width="165px">
+  <a href="https://www.hlabz.cc/"><img src="https://user-images.githubusercontent.com/113842155/195224011-0e8a0959-8e76-4e1e-9dd7-a2eb5a5bd9aa.png" width="165px"></a>
   </p>
 
 ## 💼 Services we are providing:
