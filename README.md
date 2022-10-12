@@ -54,7 +54,7 @@ By doing our work, we have developed a real expertise in the fields of ***Dev, S
 
 <br />
   <p align="center">
-    <img src="https://user-images.githubusercontent.com/113842155/195224448-f56ebf5c-a876-4a4a-b364-250f9220419e.png" width="60px">
+    <img src="https://user-images.githubusercontent.com/113842155/195224448-f56ebf5c-a876-4a4a-b364-250f9220419e.png" width="42px">
   </p>
 
 ## 🎁 Donate Crypto:
