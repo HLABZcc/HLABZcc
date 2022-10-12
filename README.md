@@ -11,9 +11,6 @@
 ```
   <br />
   <p align="center">
-  
-  https://user-images.githubusercontent.com/113842155/195224011-0e8a0959-8e76-4e1e-9dd7-a2eb5a5bd9aa.png
-
   <img src="https://user-images.githubusercontent.com/113842155/195224011-0e8a0959-8e76-4e1e-9dd7-a2eb5a5bd9aa.png" width="145px">
   </p>
 
