@@ -1,4 +1,6 @@
-# Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Welcome to ***HLABZ ⚡***
+# Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Welcome to ***<a href="https://www.hlabz.cc/" target="_blank">HLABZ</a> ⚡***
+
+![Profile views](https://gpvc.arturio.dev/hlabzcc) 
 
 ```
 ##     ## ##          ###    ########  ########  ######   ######  
@@ -9,6 +11,8 @@
 ##     ## ##       ##     ## ##     ##  ##      ##    ## ##    ## 
 ##     ## ######## ##     ## ########  ########  ######   ######                                                                                                                        
 ```
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=💼+WORK+WITH+US)](https://www.hlabz.cc)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=📩+CONTACT+ME)](mailto:contact@hlabz.cc)
 
 ## 🚀 About HLABZ:
 
@@ -60,6 +64,9 @@ By doing our work, we have developed a real expertise in the fields of ***Dev, S
   <p align="center">
     <a href="https://www.hlabz.cc/"><img src="https://user-images.githubusercontent.com/113842155/195224448-f56ebf5c-a876-4a4a-b364-250f9220419e.png" width="42px"></a>
   </p>
+  
+  <hr/>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=hlabzcc)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **HLABZcc/HLABZcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
