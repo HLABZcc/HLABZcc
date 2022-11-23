@@ -11,8 +11,8 @@
 ##     ## ##       ##     ## ##     ##  ##      ##    ## ##    ## 
 ##     ## ######## ##     ## ########  ########  ######   ######                                                                                                                        
 ```
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=49D391&lines=💼+WORK+WITH+US)](https://www.hlabz.cc)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=49D391&lines=📩+CONTACT+ME)](mailto:contact@hlabz.cc)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=49D391&lines=👉+WORK+WITH+US+💼)](https://www.hlabz.cc)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=49D391&lines=👉+CONTACT+ME+📩)](mailto:contact@hlabz.cc)
 
 ## <h2 align="center">🚀 About HLABZ:</h2>
 
