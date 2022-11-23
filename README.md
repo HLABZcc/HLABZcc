@@ -11,10 +11,10 @@
 ##     ## ##       ##     ## ##     ##  ##      ##    ## ##    ## 
 ##     ## ######## ##     ## ########  ########  ######   ######                                                                                                                        
 ```
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=💼+WORK+WITH+US)](https://www.hlabz.cc)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=📩+CONTACT+ME)](mailto:contact@hlabz.cc)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=49D391&lines=💼+WORK+WITH+US)](https://www.hlabz.cc)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=49D391&lines=📩+CONTACT+ME)](mailto:contact@hlabz.cc)
 
-## 🚀 About HLABZ:
+## <h2 align="center">🚀 About HLABZ:</h2>
 
 ***HLABZ*** manages different automatic websites: ***Blog, Ecom, SAAS***,...  
 
@@ -31,7 +31,7 @@ By doing our work, we have developed a real expertise in the fields of ***Dev, S
   
   <hr />
 
-## 💼 Services we are providing:
+## <h2 align="center">💼 Services we are providing:</h2>
 - ⛏ ***ADS Campaign & Optimize*** : Google Ads, Facebook Ads, Snapchat Ads, Tiktok Ads & Taboola.
 - 🛠 ***SEO Audit***, ***Netlinking***, ***SEO strategy Consulting***.
 - 💻 ***Website Development***:
@@ -45,15 +45,15 @@ By doing our work, we have developed a real expertise in the fields of ***Dev, S
   <img src="https://user-images.githubusercontent.com/113842155/190999737-646f47ae-3795-47c7-a5a0-86274e5423b1.png" align="center" width="75px" height="75px"><img src="https://user-images.githubusercontent.com/113842155/191000074-3db330e6-8e38-403d-819f-147c5ee273d6.png" align="center" width="300px" height="80px">
 
 
-## 📈 Our statistics:
+## <h2 align="center">📈 Our statistics:</h2>
 - 🚀 More than **+3000 SEO Audit** done.
 - 🛸 More than **+50 Websites Built** at [www.hlabz.cc](https://www.hlabz.cc).
 - 🧨 More than **+10 Projects Developed**.
 
-## 💻 Open source work stats:
+## <h2 align="center">💻 Open source work stats:</h2>
 [![HLABZcc's github stats](https://github-readme-stats.vercel.app/api?username=HLABZcc&theme=tokyonight&show_icons=true)](https://github.com/HLABZcc)
 
-## 🎁 Donate Crypto:
+  ## <h2 align="center">🎁 Donate Crypto:</h2>
 ![Donate BTC](https://user-images.githubusercontent.com/106092954/169848186-ce4f7702-c9ff-4d76-b66f-253156fd7b78.png)  ![Donate LTC](https://user-images.githubusercontent.com/106092954/169848564-e78402e8-6d19-41ec-a0dd-80f0669298bd.png)  ![Donate BCH](https://user-images.githubusercontent.com/106092954/169848724-9c78a57e-7009-49e4-afa3-11d7c93063ea.png)
 
 - **ETH address:** ```746200.eth ⟠```
