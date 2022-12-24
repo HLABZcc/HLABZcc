@@ -21,6 +21,8 @@
 By doing our work, we have developed a real expertise in the fields of ***Dev, SEO, Advertising & much more***.
 
 - 🌐 ***Website*** : **[www.hlabz.cc](https://www.hlabz.cc/)**
+- 🏴 ***Essays*** : **[essays.hlabz.cc](https://essays.hlabz.cc/)**
+- 🥷🏼 ***Gitcoin*** : **[gitcoin.co/hlabzcc](https://gitcoin.co/hlabzcc)**
 - ⚡️ ***Contact*** : **contact@hlabz.cc**
 - 🛠 ***Work Together*** : **[www.fiverr.com/hlabzconsult](https://www.fiverr.com/hlabzconsult)**
 
