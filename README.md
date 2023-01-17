@@ -11,21 +11,12 @@
 ##     ## ##       ##     ## ##     ##  ##      ##    ## ##    ## 
 ##     ## ######## ##     ## ########  ########  ######   ######                                                                                                                        
 ```
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=49D391&lines=👉+WORK+WITH+US+💼)](https://www.hlabz.cc)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=49D391&lines=👉+CONTACT+ME+📩)](mailto:contact@hlabz.cc)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=49D391&lines=👉+WEBSITE+💼)](https://www.hlabz.cc)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=49D391&lines=👉+CONTACT+📩)](mailto:contact@hlabz.cc)
 
-## <h2 align="center">🚀 About HLABZ:</h2>
-
-***HLABZ*** manages different automatic websites: ***Blog, Ecom, SAAS***,...  
-
-By doing our work, we have developed a real expertise in the fields of ***Dev, SEO, Advertising & much more***.
 
 - 🌐 ***Website*** : **[www.hlabz.cc](https://www.hlabz.cc/)**
-- 🏴 ***Essays*** : **[essays.hlabz.cc](https://essays.hlabz.cc/)**
-- 🥷🏼 ***Gitcoin*** : **[gitcoin.co/hlabzcc](https://gitcoin.co/hlabzcc)**
 - ⚡️ ***Contact*** : **contact@hlabz.cc**
-- 🛠 ***Work Together*** : **[www.fiverr.com/hlabzconsult](https://www.fiverr.com/hlabzconsult)**
-
   <br />
   <p align="center">
   <a href="https://www.hlabz.cc/"><img src="https://user-images.githubusercontent.com/113842155/195224011-0e8a0959-8e76-4e1e-9dd7-a2eb5a5bd9aa.png" width="125px"></a>
@@ -60,7 +51,7 @@ By doing our work, we have developed a real expertise in the fields of ***Dev, S
 [![HLABZcc's github stats](https://github-readme-stats.vercel.app/api?username=HLABZcc&theme=tokyonight&show_icons=true)](https://github.com/HLABZcc)
 
   ## <h2 align="center">🎁 Donate Crypto:</h2>
-![Donate BTC](https://user-images.githubusercontent.com/106092954/169848186-ce4f7702-c9ff-4d76-b66f-253156fd7b78.png)  ![Donate LTC](https://user-images.githubusercontent.com/106092954/169848564-e78402e8-6d19-41ec-a0dd-80f0669298bd.png)  ![Donate BCH](https://user-images.githubusercontent.com/106092954/169848724-9c78a57e-7009-49e4-afa3-11d7c93063ea.png)
+![Donate BTC](https://user-images.githubusercontent.com/106092954/169848186-ce4f7702-c9ff-4d76-b66f-253156fd7b78.png)  ![Donate LTC](https://user-images.githubusercontent.com/106092954/169848564-e78402e8-6d19-41ec-a0dd-80f0669298bd.png)
 
 
 - **BTC address:** ```bc1qp4zxxj0k0whkm483qv5dk2rs6sgh2tt70h44rf```
